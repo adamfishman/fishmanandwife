@@ -294,11 +294,11 @@ header .intro-text {
 
 header .intro-text .intro-lead-in {
     margin-bottom: 25px;
-    font-family: "Droid Serif", "Helvetica Neue", Helvetica,Arial,sans-serif;
-    color:#c97a86;
-    text-shadow: -1px 0 white, 0 1px black, 1px 0 black, 0 -1px white;
+    font-family: "Antic Slab", "Helvetica Neue", Helvetica,Arial,sans-serif;
+    color:#ffffff;
+    text-shadow: -2px 0 #c97a86, 0 2px black, 2px 0 black, 0 -2px #c97a86;
     font-size: 22px;
-    font-style: italic;
+    /*font-style: italic;*/
     line-height: 22px;
 }
 
@@ -312,7 +312,7 @@ header .intro-text .intro-heading {
     url(img/gold2.jpg) repeat;
     background: -o-linear-gradient(transparent, transparent);
     -webkit-background-clip: text;*/
-    text-shadow: -1px 0 white, 0 1px black, 1px 0 black, 0 -1px white;
+    text-shadow: -2px 0 #c97a86, 0 2px black, 2px 0 black, 0 -2px #c97a86;
     font-size: 50px;
     font-weight: 700;
     line-height: 50px;
@@ -326,9 +326,9 @@ header .intro-text .intro-heading {
 
     header .intro-text .intro-lead-in {
         margin-bottom: 25px;
-        font-family: "Droid Serif", "Helvetica Neue", Helvetica,Arial,sans-serif;
+        font-family: "Antic Slab", "Helvetica Neue", Helvetica,Arial,sans-serif;
         font-size: 40px;
-        font-style: italic;
+        /*font-style: italic;*/
         line-height: 40px;
     }
 
@@ -355,7 +355,7 @@ section h2.section-heading {
 section h3.section-subheading {
     margin-bottom: 75px;
     text-transform: none;
-    font-family: "Droid Serif", "Helvetica Neue", Helvetica,Arial,sans-serif;
+    font-family: "Antic Slab", "Helvetica Neue", Helvetica,Arial,sans-serif;
     font-size: 16px;
     font-style: italic;
     font-weight: 400;
@@ -435,7 +435,7 @@ section h3.section-subheading {
 
 #portfolio .portfolio-item .portfolio-caption p {
     margin: 0;
-    font-family: "Droid Serif", "Helvetica Neue", Helvetica,Arial,sans-serif;
+    font-family: "Antic Slab", "Helvetica Neue", Helvetica,Arial,sans-serif;
     font-size: 16px;
     font-style: italic;
 }
@@ -813,7 +813,7 @@ ul.social-buttons li a:active {
 
 .portfolio-modal .modal-content p.item-intro {
     margin: 20px 0 30px;
-    font-family: "Droid Serif", "Helvetica Neue", Helvetica,Arial,sans-serif;
+    font-family: "Antic Slab", "Helvetica Neue", Helvetica,Arial,sans-serif;
     font-size: 16px;
     font-style: italic;
 }

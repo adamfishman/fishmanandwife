@@ -287,10 +287,10 @@ header .intro-text {
 header .intro-text .intro-lead-in {
     margin-bottom: 25px;
     font-family: {{ site.data.template.font.secondary }};
-    color:#c97a86;
-    text-shadow: -1px 0 white, 0 1px black, 1px 0 black, 0 -1px white;
+    color:#ffffff;
+    text-shadow: -2px 0 #c97a86, 0 2px black, 2px 0 black, 0 -2px #c97a86;
     font-size: 22px;
-    font-style: italic;
+    /*font-style: italic;*/
     line-height: 22px;
 }
 
@@ -304,7 +304,7 @@ header .intro-text .intro-heading {
     url(img/gold2.jpg) repeat;
     background: -o-linear-gradient(transparent, transparent);
     -webkit-background-clip: text;*/
-    text-shadow: -1px 0 white, 0 1px black, 1px 0 black, 0 -1px white;
+    text-shadow: -2px 0 #c97a86, 0 2px black, 2px 0 black, 0 -2px #c97a86;
     font-size: 50px;
     font-weight: 700;
     line-height: 50px;
@@ -320,7 +320,7 @@ header .intro-text .intro-heading {
         margin-bottom: 25px;
         font-family: {{ site.data.template.font.secondary }};
         font-size: 40px;
-        font-style: italic;
+        /*font-style: italic;*/
         line-height: 40px;
     }
 
