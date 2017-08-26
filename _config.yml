@@ -1,5 +1,5 @@
 url: http://fishmanandwife.com
-baseurl: 
+baseurl:
 
 # Site settings
 title: "#fishmanAndWife"
@@ -8,39 +8,53 @@ description: "Welcome to the wedding website of Rebecca Minerd and Adam Fishman!
 
 
 # Team names, titles and social links #TODO - put wedding party here?
-#people:
-#- name: Adam Fishman
-#  pic: 1
-#  position: Lead Designer
-#  social:
-#    - title: twitter
-#      url: #
-#    - title: facebook
-#      url: #
-#    - title: stack-overflow
-#      url: #
+people:
+  - name: Ryan Irvine
+    pic: 1
+    position: Best Man
+    bio: Ryan and Adam met at their first job after college in Cleveland, and have worked together now at four different jobs. On purpose, not by accident! 
+  - name: Alex Janes
+    pic: 2
+    position: Groomsman
+    bio: Alex is one of Adam's first friends from college and the two then lived together off-campus and both always did the dishes without complaining.
+  - name: Dan Gregorich
+    pic: 3
+    position: Groomsman
+    bio: Dan and Adam have been friends since high school and have travelled the world together, including trips to Spain and Japan!
+  - name: Steve Kemeny
+    pic: 4
+    position: Groomsman
+    bio: Steve was the first friend Adam made in college, when his parents and Steve's parents met in the dorm hallway as they were helping move them in at Virginia Tech.
+  - name: Marshall Walcer
+    pic: 5
+    position: Groomsman
+    bio: Marshall and Adam became friends as cub scouts. They achieved a glorious 15 minutes of fame together starring as an alien and robot in the Solon Library summer reading program promo video.
 
-#- name: Larry Parker
-#  pic: 2
-#  position: Lead Marketer
-#  social:
-#    - title: twitter
-#      url: #
-#    - title: facebook
-#      url: #
-#    - title: linkedin
-#      url: #
-
-#- name: Diana Petersen
-#  pic: 3
-#  position: Lead Developer
-#  social:
-#    - title: twitter
-#      url: #
-#    - title: facebook
-#      url: #
-#    - title: google-plus
-#      url: #
+  - name: Michelle Doyle
+    pic: 6
+    position: Maid of Honor
+    bio: 
+  - name: Nicole DeChant
+    pic: 7
+    position: Bridesmaid
+    bio: 
+  - name: Jacqueline Gedeon
+    pic: 8
+    position: Bridesmaid
+    bio: 
+  - name: Kathy Marino
+    pic: 9
+    position: Bridesmaid
+    bio: 
+  - name: Jillian Tubbs
+    pic: 10
+    position: Bridesmaid
+    bio: 
+  - name: Morgan Dotlich
+    pic: 11
+    position: Junior Bridesmaid
+    bio: 
+#Lauren & Lila
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -50,8 +64,6 @@ social:
     url: https://www.facebook.com/search/str/%23fishmanandwife/keywords_top
   - title: instagram
     url: https://www.instagram.com/explore/tags/fishmanandwife/
-  # - title: bitbucket 
-  #   url: http://bitbucket.org/jekyll
   - title: github
     url: http://github.com/adamfishman/fishmanandwife
 

@@ -185,7 +185,6 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-brand {
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,cursive;
-
     color: #b76e79;
 }
 
@@ -254,7 +253,7 @@ fieldset[disabled] .btn-xl.active {
     }
 
     .navbar-default .navbar-brand {
-        font-size: 1.5em;
+        font-size: 15px;
         -webkit-transition: all .3s;
         -moz-transition: all .3s;
         transition: all .3s;
@@ -270,7 +269,7 @@ fieldset[disabled] .btn-xl.active {
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
-        font-size: 1.5em;
+        font-size: 15px;
     }
 }
 
@@ -278,7 +277,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('/fishmanandwife//img/header-bg.jpg');
+    background-image: url('/img/header-bg.jpg');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -676,7 +675,7 @@ aside.clients img {
 
 section#contact {
     background-color: #222;
-    /*background-image: url('/fishmanandwife//img/map-image.png');*/
+    /*background-image: url('/img/map-image.png');*/
     background-position: center;
     background-repeat: no-repeat;
 }
